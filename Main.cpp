@@ -1,7 +1,7 @@
 ﻿#include "PrimeNumbers.h"
 
 int main() {
-    int max;
+    int max = 0;
 
     cout << "What max would you like to count primes up to? Assume the first prime is 2: ";
     cin >> max;
