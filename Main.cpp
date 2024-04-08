@@ -8,6 +8,7 @@ int main() {
 
     if (max < 2) {
         cout << "Invalid input. The first prime number is 2." << endl << endl;
+        system("pause");
         return 1;
     }
 
